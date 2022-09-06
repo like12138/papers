@@ -20,3 +20,11 @@ keyword: review
 https://arxiv.org/abs/2006.03750v2
 
 keyword: linear time; generalization
+
+
+# books
+[1] Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges. Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković. <br>
+https://arxiv.org/abs/2104.13478
+
+[2] Graph Representation Learning. William L. Hamilton. McGill University. <br>
+https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf.
