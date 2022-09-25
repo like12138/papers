@@ -35,3 +35,10 @@ https://arxiv.org/abs/2104.13478
 
 [2] Graph Representation Learning. William L. Hamilton. McGill University. <br>
 https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf.
+
+# others
+## competition
+[1] The Machine Learning for Combinatorial Optimization Competition (ML4CO): Results and Insights. NeurIPS 2021 <br>
+https://proceedings.mlr.press/v176/gasse22a.html <br>
+Co-organizers: Maxime Gasse et.al
+winners: （1）港中文+深圳大数据研究院+华为 （2）北大+旷视 （3）清华+华东师范大学+华为
