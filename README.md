@@ -10,7 +10,7 @@ merit: fast;differentiable
 https://arxiv.org/abs/2103.03012
 
 ## End2End
-[1]"Matrix Encoding Networks for Neural Combinatorial Optimization." NeurIPS 2021. Yeong-Dae Kwon, Jinho Choo, Iljoo Yoon, Minah Park, Duwon Park, Youngjune Gwon. Samsung SDS<br>[Uploading NeurIPS-2021-matrix-encoding-networks-for-neural-combinatorial-optimization-Paper.pdf…]()
+[1]"Matrix Encoding Networks for Neural Combinatorial Optimization." NeurIPS 2021. Yeong-Dae Kwon, Jinho Choo, Iljoo Yoon, Minah Park, Duwon Park, Youngjune Gwon. Samsung SDS<br>
 https://proceedings.neurips.cc/paper/2021/hash/29539ed932d32f1c56324cded92c07c2-Abstract.html
 
 keywords: asymmetric traveling salesman (ATSP), flexible flow shop (FFSP)
