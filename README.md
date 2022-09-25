@@ -21,13 +21,21 @@ https://proceedings.neurips.cc/paper/2021/hash/5c53292c032b6cb8510041c54274e65f-
 CVRP 好于POMO,但比POMO慢
 
 [3]"Reinforcement Learning with Combinatorial Actions: An Application to Vehicle Routing." NeurIPS 2020. Arthur Delarue, Ross Anderson, Christian Tjandraatmadja <br>
-https://proceedings.neurips.cc/paper/2020/hash/06a9d51e04213572ef0720dd27a84792-Abstract.html
+https://proceedings.neurips.cc/paper/2020/hash/06a9d51e04213572ef0720dd27a84792-Abstract.html<br>
 只做到了CVRP 50
 
+[4]"Learning Collaborative Policies to Solve NP-hard Routing Problems." NeurIPS 2021. Minsu Kim, Jinkyoo Park, joungho kim.<br>
+https://proceedings.neurips.cc/paper/2021/hash/564127c03caab942e503ee6f810f54fd-Abstract.html<br>
+
+
 ## End2End
-[1]"Matrix Encoding Networks for Neural Combinatorial Optimization." NeurIPS 2021. Yeong-Dae Kwon, Jinho Choo, Iljoo Yoon, Minah Park, Duwon Park, Youngjune Gwon. Samsung SDS<br>
-https://proceedings.neurips.cc/paper/2021/hash/29539ed932d32f1c56324cded92c07c2-Abstract.html
+[1]"Matrix Encoding Networks for Neural Combinatorial Optimization." NeurIPS 2021. **Yeong-Dae Kwon**, Jinho Choo, Iljoo Yoon, Minah Park, Duwon Park, Youngjune Gwon. Samsung SDS<br>
+https://proceedings.neurips.cc/paper/2021/hash/29539ed932d32f1c56324cded92c07c2-Abstract.html<br>
 keywords: asymmetric traveling salesman (ATSP), flexible flow shop (FFSP)
+
+[2]"**POMO**: Policy Optimization with Multiple Optima for Reinforcement Learning." NeurIPS 2020. **Yeong-Dae Kwon**, Jinho Choo, Byoungjip Kim, Iljoo Yoon, Youngjune Gwon, Seungjai Min.<br>
+https://proceedings.neurips.cc/paper/2020/hash/f231f2107df69eab0a3862d50018a9b2-Abstract.html
+
 
 ## CO+GNN
 [1]"Learning to Solve Combinatorial Optimization Problems on Real-World Graphs in Linear Time" Iddo Drori, Anant Kharkar, William R. Sickinger, Brandon Kates, Qiang Ma, Suwen Ge, Eden Dolev, Brenda Dietrich, David P. Williamson, Madeleine Udell <br>
