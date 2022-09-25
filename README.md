@@ -16,6 +16,14 @@ https://ojs.aaai.org/index.php/SOCS/article/view/18556/18345
 [1]"Reinforcement Learning for Solving the Vehicle Routing Problem." NeurIPS 2018. MohammadReza **Nazari**, Afshin Oroojlooy, Lawrence Snyder, Martin Takac. <br>
 https://proceedings.neurips.cc/paper/2018/hash/9fb4651c05b2ed70fba5afe0b039a550-Abstract.html
 
+[2]"Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer." NeurIPS 2021. Yining Ma, Jingwen Li, Zhiguang Cao, Wen Song, Le Zhang, Zhenghua Chen, Jing Tang. NUS.<br>
+https://proceedings.neurips.cc/paper/2021/hash/5c53292c032b6cb8510041c54274e65f-Abstract.html<br>
+CVRP 好于POMO,但比POMO慢
+
+[3]"Reinforcement Learning with Combinatorial Actions: An Application to Vehicle Routing." NeurIPS 2020. Arthur Delarue, Ross Anderson, Christian Tjandraatmadja <br>
+https://proceedings.neurips.cc/paper/2020/hash/06a9d51e04213572ef0720dd27a84792-Abstract.html
+只做到了CVRP 50
+
 ## End2End
 [1]"Matrix Encoding Networks for Neural Combinatorial Optimization." NeurIPS 2021. Yeong-Dae Kwon, Jinho Choo, Iljoo Yoon, Minah Park, Duwon Park, Youngjune Gwon. Samsung SDS<br>
 https://proceedings.neurips.cc/paper/2021/hash/29539ed932d32f1c56324cded92c07c2-Abstract.html
