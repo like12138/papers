@@ -27,6 +27,10 @@ https://proceedings.neurips.cc/paper/2020/hash/06a9d51e04213572ef0720dd27a84792-
 [4]"Learning Collaborative Policies to Solve NP-hard Routing Problems." NeurIPS 2021. Minsu Kim, Jinkyoo Park, joungho kim.<br>
 https://proceedings.neurips.cc/paper/2021/hash/564127c03caab942e503ee6f810f54fd-Abstract.html<br>
 
+[5]"Deep reinforcement learning for the dynamic and uncertain vehicle routing problem." Weixu Pan · Shi Qiang Liu. 福州大学.
+https://link.springer.com/content/pdf/10.1007/s10489-022-03456-w.pdf
+https://link.springer.com/article/10.1007/s10489-022-03456-w
+
 
 ## End2End
 [1]"Matrix Encoding Networks for Neural Combinatorial Optimization." NeurIPS 2021. **Yeong-Dae Kwon**, Jinho Choo, Iljoo Yoon, Minah Park, Duwon Park, Youngjune Gwon. Samsung SDS<br>
