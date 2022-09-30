@@ -69,6 +69,9 @@ https://proceedings.neurips.cc/paper/2019/hash/131f383b434fdf48079bff1e44e2d9a5-
 [4]**DPDP**-"Deep Policy Dynamic Programming for Vehicle Routing Problems." Wouter Kool, Herke van Hoof , Joaquim Gromicho and Max Welling. <BR>
 https://link.springer.com/content/pdf/10.1007/978-3-031-08011-1_14.pdf
 
+[5]"Imitation Improvement Learning for Large-scale Capacitated Vehicle Routing Problems"<br>
+https://openreview.net/forum?id=K5UfKyHIBS <br>
+keywords: Imitation learning; Large-scale VRP
 
 # books
 [1] Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges. Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković. <br>
