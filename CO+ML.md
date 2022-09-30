@@ -40,6 +40,9 @@ keywords: asymmetric traveling salesman (ATSP), flexible flow shop (FFSP)
 [2]"**POMO**: Policy Optimization with Multiple Optima for Reinforcement Learning." NeurIPS 2020. **Yeong-Dae Kwon**, Jinho Choo, Byoungjip Kim, Iljoo Yoon, Youngjune Gwon, Seungjai Min.<br>
 https://proceedings.neurips.cc/paper/2020/hash/f231f2107df69eab0a3862d50018a9b2-Abstract.html
 
+[3]Towards Generalized Combinatorial Solvers via Reward Adjustment Policy Optimization. ICLR2023 投稿.<br>
+https://openreview.net/forum?id=KjzZrBsORz
+
 
 ## CO+GNN
 [1]"Learning to Solve Combinatorial Optimization Problems on Real-World Graphs in Linear Time" Iddo Drori, Anant Kharkar, William R. Sickinger, Brandon Kates, Qiang Ma, Suwen Ge, Eden Dolev, Brenda Dietrich, David P. Williamson, Madeleine Udell <br>
@@ -72,6 +75,10 @@ https://link.springer.com/content/pdf/10.1007/978-3-031-08011-1_14.pdf
 [5]"Imitation Improvement Learning for Large-scale Capacitated Vehicle Routing Problems"<br>
 https://openreview.net/forum?id=K5UfKyHIBS <br>
 keywords: Imitation learning; Large-scale VRP
+ 
+## others
+[1] SurCo: Learning Linear Surrogates for Combinatorial Nonlinear Optimization Problems. ICLR2023 投稿 <br>
+https://openreview.net/forum?id=5o8oFs5D9Z
 
 # books
 [1] Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges. Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković. <br>
