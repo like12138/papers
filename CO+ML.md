@@ -12,6 +12,10 @@ https://arxiv.org/abs/2103.03012
 [3]"SOLO: Search Online, Learn Offline for Combinatorial Optimization Problems." AAAI 2021. Joel Oren1, Chana Ross1, Maksym Lefarov1, Felix Richter1, Ayal Taitler2, Zohar Feldman1,Dotan Di Castro1, Christian Daniel. <br>
 https://ojs.aaai.org/index.php/SOCS/article/view/18556/18345
 
+[4]"BQ-NCO: Bisimulation Quotienting for Generalizable Neural Combinatorial Optimization." ICLR 2023 <br>
+https://openreview.net/forum?id=5ZLWi--i57
+
+
 ## RL
 [1]"Reinforcement Learning for Solving the Vehicle Routing Problem." NeurIPS 2018. MohammadReza **Nazari**, Afshin Oroojlooy, Lawrence Snyder, Martin Takac. <br>
 https://proceedings.neurips.cc/paper/2018/hash/9fb4651c05b2ed70fba5afe0b039a550-Abstract.html
